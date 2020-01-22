@@ -1,4 +1,5 @@
 def square_array(array)
   # your code here
-  array.each_char { |num| puts "This is #{num}" }
+  #array.each_char { |num| puts "This is #{num}" }
+  pp array
 end
